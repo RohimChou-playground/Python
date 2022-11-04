@@ -5,7 +5,7 @@ class User:
         self.name = name
         self.cityId = cityId
 
-# define User class
+# define City class
 class City:
     def __init__(self, id, name):
         self.id = id
